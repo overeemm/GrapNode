@@ -1,0 +1,31 @@
+{
+  "name": "GrapNode",
+  "version": "0.0.0",
+  "description": "A nodejs app to grap a screencapture of the give URL",
+  "main": "index.js",
+  "dependencies": {
+    "node-phantom": "~0.2.5",
+    "rx": "~2.2.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overeemm/GrapNode"
+  },
+  "keywords": [
+    "phantomjs",
+    "screenshot",
+    "capture",
+    "grap",
+    "nodejs"
+  ],
+  "author": "Michiel Overeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overeemm/GrapNode/issues"
+  },
+  "homepage": "https://github.com/overeemm/GrapNode"
+}
